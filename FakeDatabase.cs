@@ -21,6 +21,7 @@ namespace MovieApp
             ///Halló !!!
             //Sæl og blessuð!
             ///sælar dömur
+            ///Elli Grill
             new Movie() {
                 Id = 2,
                 Title = "Star Wars: Episode IV - A New Hope",
