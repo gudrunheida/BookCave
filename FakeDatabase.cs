@@ -17,7 +17,8 @@ namespace MovieApp
                 Image = "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
                 Rating = 8.3
             },
-
+            
+            ///Halló !!!
             new Movie() {
                 Id = 2,
                 Title = "Star Wars: Episode IV - A New Hope",
